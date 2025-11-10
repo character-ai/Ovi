@@ -8,11 +8,20 @@
 [Chetwin Low](https://www.linkedin.com/in/chetwin-low-061975193/)<sup> * 1 </sup>, [Weimin Wang](https://www.linkedin.com/in/weimin-wang-will/)<sup> * &dagger; 1 </sup>, [Calder Katyal](https://www.linkedin.com/in/calder-katyal-a8a9b3225/)<sup> 2 </sup><br>
 <sup> * </sup>Equal contribution, <sup> &dagger; </sup>Project Lead<br>
 <sup> 1 </sup>Character AI, <sup> 2 </sup>Yale University
-
 </div>
 
-## Video Demo
+---
 
+## 🎥 Video Demo
+
+### 🆕 Ovi 1.1 10-Second Model
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/1070283f-e9f5-4e14-8660-d1e58b3251dc"
+         width="70%" controls playsinline preload="metadata"></video>
+  <p><em>Ovi 1.1 – 10-second temporally consistent video generation (960 × 960 resolution)</em></p>
+</div>
+
+### 🎬 Original 5-Second Demo
 <div align="center">
   <video src="https://github.com/user-attachments/assets/351bd707-8637-4412-ab53-5e85935309e3" width="70%" poster=""> </video>
 </div>
@@ -21,7 +30,11 @@
 
 ## 🌟 Key Features
 
-Ovi is a veo-3 like, **video+audio generation model** that simultaneously generates both video and audio content from text or text+image inputs.
+> 🆕 **Ovi 1.1 (coming in 2 days):**  
+> The new Ovi 1.1 checkpoint enables **temporal-consistent 10-second video generation at 960 × 960 resolution**.  
+
+Ovi is a veo-3-like, **video + audio generation model** that simultaneously generates both video and audio content from text or text + image inputs.
+
 
 - **🎬 Video+Audio Generation**: Generate synchronized video and audio content simultaneously
   - **🎵 High-Quality Audio Branch**: We designed and pretrained our 5B audio branch from scratch using our high quality in-house audio datasets

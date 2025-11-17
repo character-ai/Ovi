@@ -28,3 +28,5 @@ protobuf
 sentencepiece
 
 optimum-quanto
+
+einops
